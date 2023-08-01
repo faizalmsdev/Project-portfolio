@@ -4,7 +4,11 @@ function App() {
 
   return (
     <>
-      <h1>Hello Worl</h1>
+    <header>
+      <h1>Collection of Projects</h1>
+      <div className="underline"></div>
+    </header>
+      
     </>
   )
 }
